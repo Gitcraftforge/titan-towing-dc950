@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://Gitcraftforge.github.io/titan-towing-dc950/sitemap.xml
+Sitemap: https://titan-towing-dc950.pages.dev/sitemap.xml
